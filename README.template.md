@@ -1,3 +1,3 @@
 ## Hello!
 
-[![Chris' GitHub Banner](./assets/GHBanner.png)](chriswolfedev.com)
+[![Chris' GitHub Banner](./assets/GHBanner.png)](https://chriswolfedev.com)
